@@ -1,15 +1,13 @@
-const { Schema, Types } = require('mongoose');
+const { Schema, Types } = require("mongoose");
 
 const reactionSchema = new Schema(
-    {
-
+  {},
+  {
+    toJSON: {
+      getters: true,
     },
-    {
-        toJSON: {
-            getters: true,
-        },
-        id: false,
-    }
+    id: false,
+  }
 );
 
 module.exports = reactionSchema;

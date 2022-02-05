@@ -16,7 +16,7 @@ Feel free to view my work here.
                               
 ## Link to Deployed Application
 
-[Live Depoyment Link](https://maykanwara.github.io/Social-Network-API/)
+[Live Deployment Link](https://maykanwara.github.io/Social-Network-API/)
                     
 ## Contact Information
 
