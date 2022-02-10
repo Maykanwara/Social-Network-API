@@ -36,7 +36,7 @@ The walk through demonstrates the GET, POST, PUT, and DELETE methods for users a
                     
 ## Contact Information
 
-Github: Maykanwara](https://github.com/Maykanwara)
+Github: [Maykanwara](https://github.com/Maykanwara)
                    
 Email: maykanwara@gmail.com
 

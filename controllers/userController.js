@@ -7,6 +7,7 @@ module.exports = {
   },
 
   async addUser(req, res) {
+    console.log (req.body)
     const addUser = await User.create(req.body);
     res.json(addUser);
   },
