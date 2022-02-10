@@ -22,7 +22,7 @@ As a social media startup, I want an API for my social network that uses a NoSQL
 -Express.js
 
 ## Walkthrough Video
-
+(https://drive.google.com/file/d/1-wHw76lJy4JOt6IhkP6onSJvA63MEhCz/view)
 
 The walk through demonstrates the GET, POST, PUT, and DELETE methods for users and thoughts, as well as the POST and DELETE methods for thought reactions and friend lists.
 
